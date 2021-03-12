@@ -2,8 +2,6 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center"> Techs that I've used at least once </p>
-
 <p align="center">
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
