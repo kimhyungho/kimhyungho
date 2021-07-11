@@ -10,8 +10,13 @@
   <a href="https://www.instagram.com/hyung__ho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rla88175@gmail.com"/></a>
 </p>
-<h3 align="center">Experience</h3>
+<h3 align="center">경험</h3>
 <p align="center">
   상명대학교 전자공학과 소프트웨어공학과 전공(2016.3 ~)</br>
   제7회 대한민국 SW융합 해커톤 대회 대상(2020.12)</br>
+</p>
+<h3 align="center">자격증</h3>
+<p align="center">
+  컴퓨터활용능력1급(2020.2)</br>
+  정보처리기사(2021.6)</br>
 </p>
