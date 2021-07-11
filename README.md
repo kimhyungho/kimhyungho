@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KIMHYUNGHO&fontSize=70&animation=twinkling)
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">언어</h3>
 
 <p align="center">
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
-<h3 align="center">Me</h3>
+<h3 align="center">홈페이지</h3>
 <p align="center">
-  <a href="https://www.instagram.com/hyung__ho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="https://www.instagram.com/hyung__ho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyung__ho/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rla88175@gmail.com"/></a>
 </p>
 <h3 align="center">경험</h3>
